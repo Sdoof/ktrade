@@ -1,6 +1,6 @@
 Flask==2.0.1
 eventlet==0.30.2
-flask-cors==3.0.10
+flask-cors==6.0.0
 sqlalchemy==1.4
 Flask-SQLAlchemy==2.5
 Flask-Migrate==3.1
