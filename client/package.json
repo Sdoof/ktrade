@@ -12,7 +12,7 @@
     "ag-grid-community": "^26.0.0",
     "ag-grid-vue3": "^26.0.0",
     "autoprefixer": "^10.3.1",
-    "axios": "^0.21.1",
+    "axios": "^0.30.2",
     "cssnano": "^5.0.7",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
